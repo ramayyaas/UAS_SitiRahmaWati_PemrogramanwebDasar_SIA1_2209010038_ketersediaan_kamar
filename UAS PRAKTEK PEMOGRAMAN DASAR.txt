@@ -1,0 +1,5 @@
+UAS PRAKTEK PEMOGRAMAN WEB DASAR 
+
+Analisis saya dalam database ini adalah
+saya membuat table patient dan room 
+jadi ketika admin mau memasukan patient dia harus menginput nama pasien dan tanggal masuk pasien dan id kamar atau level kamar
